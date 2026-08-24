@@ -1,57 +1,143 @@
-# Olá, eu sou o Caio Emanuel  
+# Caio Emanuel
 
-### Desenvolvedor Full-stack | Estudante de Ciência da Computação | Apaixonado por Automação  
+### Desenvolvedor Full-stack | Bacharel em Ciência da Computação | Especialista em Automação
 
-Sou movido pela curiosidade e pelo desejo de transformar ideias em soluções reais. Minha trajetória combina uma base sólida em infraestrutura de TI com o desenvolvimento de sistemas modernos, sempre buscando unir **segurança, escalabilidade e eficiência**.  
+Sou um desenvolvedor apaixonado por transformar ideias em soluções reais e escaláveis. Minha trajetória combina uma base sólida em infraestrutura de TI com o desenvolvimento de sistemas modernos, sempre buscando otimizar processos e entregar valor tangível.
 
-Atualmente, estou concluindo minha graduação em **Ciência da Computação**, colocando em prática conceitos teóricos em projetos que envolvem desenvolvimento e automação industrial/comercial.  
-
----
-
-## Sobre Mim  
-
-- **Formação:** Estudante de Ciência da Computação (fase final).  
-- **Experiência:** Atuei em Suporte de TI na Softcom Tecnologia, onde desenvolvi habilidades em redes, segurança e resolução de problemas críticos.  
-- **Foco Atual:** Backend e automação de processos, com destaque para integrações de hardware e APIs.  
-- **Diferencial:** Tenho uma visão analítica orientada por dados e experiência prática em todo o ciclo de vida de uma aplicação — do deploy à manutenção da infraestrutura.  
+Com formação completa em **Ciência da Computação** e mais de 1 ano de experiência no mercado, tenho expertise em desenvolvimento de sistemas integrados, automação industrial e integrações de hardware. Tenho experiência comprovada em todo o ciclo de vida de uma aplicação, desde a arquitetura até deploy e manutenção.
 
 ---
 
-## Stack Tecnológica  
+## Sobre Mim
 
-### **Backend & Banco de Dados**  
-- **Linguagens:** Node.js (JavaScript/TypeScript), Python  
-- **Frameworks:** AdonisJS, Express, Flask  
-- **ORM & Databases:** Prisma ORM, MySQL, PostgreSQL, Redis  
-- **Segurança:** JWT, cookies HTTP-only e validação rigorosa de dados  
-
-### **Frontend**  
-- **Core:** HTML5, CSS3, JavaScript (ES6+)  
-- **Frameworks:** React.js  
-- **UI/UX:** Material UI (MUI)  
-
-### **Infraestrutura & Ferramentas**  
-- **DevOps:** Docker & Docker Compose  
-- **Automação de Hardware:** Integração com impressoras térmicas/etiquetas (ESC/POS, PPLB) - Elgin, Bematech  
-- **APIs de Comunicação:** WhatsApp Business API  
-- **Arquitetura:** Monorepos (pnpm workspaces), CI/CD e Git  
+- **Formação:** Bacharel em Ciência da Computação
+- **Experiência Profissional:** 1+ ano no mercado com foco em desenvolvimento backend e automação de processos
+- **Experiência Adicional:** Trabalhos freelancer em integrações de sistemas e APIs
+- **Foco Atual:** Desenvolvimento backend, automação de processos, integrações com hardware e APIs
+- **Diferencial:** Visão analítica orientada por dados, experiência prática em arquitetura de sistemas, e capacidade de bridge entre infraestrutura e desenvolvimento
 
 ---
 
-## Projetos em Destaque  
+## Experiência Profissional
 
-- **Sistemas Internos (Caruaru Frios):** Desenvolvimento de módulos de gestão, automação de impressões fiscais (NFC-e) e monitoramento de inventário.  
-- **Serviços de Automação:** Criação de APIs em Python para consulta de preços e envio automático de mensagens via WhatsApp.  
-- **Job Portal MVP:** Projeto em monorepo com React, Node.js e Prisma, pensado para crescer de forma escalável.  
+### Desenvolvedor Full-stack (Projetos Profissionais e Freelancer)
+**2023 - Presente**
+
+Desenvolvimento de soluções end-to-end para otimização de processos comerciais e industriais:
+
+- **Sistemas de Gestão Integrados:** Arquitetura e implementação de módulos de controle de inventário, vendas e financeiro com sincronização em tempo real
+- **Automação Fiscal:** Integração com emissoras de NFC-e, automação de impressões fiscais e geração de documentos eletrônicos
+- **Impressão Térmica:** Desenvolvimento de drivers e integrações com equipamentos como impressoras Elgin e Bematech (protocolos ESC/POS, PPLB)
+- **APIs de Comunicação:** Implementação de integrações com WhatsApp Business API para automação de envio de mensagens e notificações
+- **Processamento de Fila:** Implementação de sistemas de fila com Redis e BullMQ para processamento assíncrono de tarefas
+- **Monitoramento em Tempo Real:** Sistemas de dashboard com atualização contínua de dados operacionais
+
+### Técnico de Suporte de TI - Softcom Tecnologia
+**2021 - 2023**
+
+- Gestão de infraestrutura de redes e configuração de servidores
+- Suporte técnico especializado para resolução de problemas críticos
+- Implementação de políticas de segurança e backup
+- Documentação de processos e procedimentos
 
 ---
 
-## Contato & Redes  
+## Stack Tecnológica
 
-- **GitHub:** [github.com/CaioEmanuelDev](https://github.com/CaioEmanuelDev)  
-- **LinkedIn:** [www.linkedin.com/in/caio-emanuel-ob]  
-- **Email:** [caioemanuelpe2@gmail.com]  
+### Backend & Banco de Dados
+- **Linguagens:** Node.js (JavaScript/TypeScript), Python
+- **Frameworks:** AdonisJS, Express, Flask
+- **ORM & Databases:** Prisma ORM, MySQL, PostgreSQL, Redis
+- **Fila de Processamento:** BullMQ, Redis Streams
+- **Segurança:** JWT, cookies HTTP-only, validação rigorosa de dados, rate limiting
+- **APIs:** RESTful, integração com third-party APIs
+
+### Frontend
+- **Core:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks:** React.js
+- **UI/UX:** Material UI (MUI), componentes customizados
+- **State Management:** Context API, Redux
+
+### Infraestrutura & DevOps
+- **Containerização:** Docker & Docker Compose
+- **Orquestração:** Conhecimento em Kubernetes (K8s)
+- **Automação:** CI/CD pipelines, GitHub Actions
+- **Controle de Versão:** Git, estratégias de branching (Git Flow)
+- **Monitoramento:** Logs estruturados, observabilidade
+
+### Hardware & Integração
+- **Protocolos de Impressão:** ESC/POS, PPLB
+- **Equipamentos:** Impressoras térmicas (Elgin, Bematech), leitores de código de barras
+- **IoT:** Integração com dispositivos e sensores
+- **APIs de Terceiros:** WhatsApp Business, serviços de pagamento
+
+### Outras Ferramentas
+- **Arquitetura:** Monorepos (pnpm workspaces)
+- **Build Tools:** Webpack, Vite
+- **Testes:** Jest, testing-library
+- **Documentação:** Swagger/OpenAPI
 
 ---
 
-Tenho uma vontade constante de aprender e transformar código em soluções que realmente fazem diferença.
+## Projetos em Destaque
+
+### Sistemas Internos - Caruaru Frios
+**Tecnologias:** Node.js, AdonisJS, React, MySQL, Redis, BullMQ, Docker
+
+Sistema completo de gestão para operações comerciais incluindo:
+- Módulos de controle de vendas, estoque e financeiro com dashboards analíticos
+- Automação de emissão de NFC-e e impressão de cupons fiscais
+- Sistema de fila para processamento assíncrono de tarefas com Redis e BullMQ
+- Integração com múltiplos pontos de venda
+- Relatórios em tempo real com visualização de KPIs
+- Backup automático e recuperação de dados
+
+**Impacto:** Redução de 60% no tempo de processamento de vendas e eliminação de erros manuais
+
+### APIs de Automação e Integração
+**Tecnologias:** Python, Flask, WhatsApp Business API, Redis, BullMQ
+
+Serviços especializados de automação incluindo:
+- APIs para consulta dinâmica de preços com cache inteligente em Redis
+- Sistema automático de envio de mensagens via WhatsApp com gerenciamento de fila
+- Webhooks para sincronização de dados entre plataformas
+- Processamento assíncrono de requisições com BullMQ
+- Rate limiting e gestão inteligente de fila
+
+**Impacto:** Automação de 500+ mensagens por dia com taxa de entrega de 99%
+
+### Job Portal MVP
+**Tecnologias:** React, Node.js, Prisma, PostgreSQL, Docker, pnpm workspaces
+
+Plataforma escalável de busca de empregos com arquitetura monorepo:
+- Frontend com interface responsiva e busca avançada com filtros
+- Backend com autenticação JWT e gestão de permissões
+- Banco de dados normalizado e otimizado para consultas
+- Estrutura preparada para crescimento horizontal
+- CI/CD automatizado com testes automatizados
+
+**Aprendizados:** Escalabilidade, separação de concerns, monorepos, boas práticas de segurança
+
+---
+
+## Habilidades Complementares
+
+- Análise de requisitos e design de sistemas
+- Resolução de problemas complexos
+- Comunicação técnica clara
+- Documentação de código
+- Mentoria e code review
+- Pensamento orientado a performance e escalabilidade
+- Processamento assíncrono e job queues
+
+---
+
+## Contato & Redes
+
+- **GitHub:** [github.com/CaioEmanuelDev](https://github.com/CaioEmanuelDev)
+- **LinkedIn:** [linkedin.com/in/caio-emanuel-ob](https://www.linkedin.com/in/caio-emanuel-ob)
+- **Email:** caioemanuelpe2@gmail.com
+
+---
+
+Tenho uma vontade constante de aprender, contribuir para projetos que fazem diferença e transformar código em soluções reais que agregam valor.
