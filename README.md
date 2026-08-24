@@ -21,7 +21,7 @@ Com formação completa em **Ciência da Computação** e mais de 1 ano de exper
 ## Experiência Profissional
 
 ### Desenvolvedor Full-stack (Projetos Profissionais e Freelancer)
-**2023 - Presente**
+**2025 - Presente**
 
 Desenvolvimento de soluções end-to-end para otimização de processos comerciais e industriais:
 
@@ -60,8 +60,6 @@ Desenvolvimento de soluções end-to-end para otimização de processos comercia
 
 ### Infraestrutura & DevOps
 - **Containerização:** Docker & Docker Compose
-- **Orquestração:** Conhecimento em Kubernetes (K8s)
-- **Automação:** CI/CD pipelines, GitHub Actions
 - **Controle de Versão:** Git, estratégias de branching (Git Flow)
 - **Monitoramento:** Logs estruturados, observabilidade
 
@@ -95,7 +93,7 @@ Sistema completo de gestão para operações comerciais incluindo:
 **Impacto:** Redução de 60% no tempo de processamento de vendas e eliminação de erros manuais
 
 ### APIs de Automação e Integração
-**Tecnologias:** Python, Flask, WhatsApp Business API, Redis, BullMQ
+**Tecnologias:** Flask, WhatsApp Business API, Redis, BullMQ, Electron, workers
 
 Serviços especializados de automação incluindo:
 - APIs para consulta dinâmica de preços com cache inteligente em Redis
@@ -105,18 +103,6 @@ Serviços especializados de automação incluindo:
 - Rate limiting e gestão inteligente de fila
 
 **Impacto:** Automação de 500+ mensagens por dia com taxa de entrega de 99%
-
-### Job Portal MVP
-**Tecnologias:** React, Node.js, Prisma, PostgreSQL, Docker, pnpm workspaces
-
-Plataforma escalável de busca de empregos com arquitetura monorepo:
-- Frontend com interface responsiva e busca avançada com filtros
-- Backend com autenticação JWT e gestão de permissões
-- Banco de dados normalizado e otimizado para consultas
-- Estrutura preparada para crescimento horizontal
-- CI/CD automatizado com testes automatizados
-
-**Aprendizados:** Escalabilidade, separação de concerns, monorepos, boas práticas de segurança
 
 ---
 
